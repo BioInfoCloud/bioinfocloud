@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+# Article Index
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 基础知识
 
-## Commands
+
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## R language
 
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+        about.md  # Other markdown pages, images and other files.
+
+## Linux
+
+Linux
+
+## RNASeq数据分析
+
+RNASeq数据分析
+
+
+
